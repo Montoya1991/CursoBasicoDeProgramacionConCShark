@@ -131,7 +131,23 @@ namespace primerCurso
                     break;
 
             }
-            //sentence while?
+            //sentence while
+            int contador = 0;
+
+            while (contador < 5) // contador empezara en cero hasta que contador no llege a 5 no dejara de recorrer el ciclo
+            {
+                Console.WriteLine("El contador es: " + contador);
+                contador++;
+            }
+
+            //Sentencia do while
+            string respuesta;
+
+            do // se ejecutara el ciclo una vez y se repetira hasta que la variable respuesta sea s
+            {
+                Console.WriteLine("¿Quieres continuar? (S/N)");
+                respuesta = Console.ReadLine();
+            } while (respuesta.ToLower() == "s"); // mientras la respuesta sea verdadera se ejecutara el ciclo
 
         }
     }
