@@ -1,0 +1,15 @@
+D:\Ruta backend con C# y .NET\Curso Básico de Programación con C#\bin\Debug\net7.0\Curso Básico de Programación con C#.exe
+D:\Ruta backend con C# y .NET\Curso Básico de Programación con C#\bin\Debug\net7.0\Curso Básico de Programación con C#.deps.json
+D:\Ruta backend con C# y .NET\Curso Básico de Programación con C#\bin\Debug\net7.0\Curso Básico de Programación con C#.runtimeconfig.json
+D:\Ruta backend con C# y .NET\Curso Básico de Programación con C#\bin\Debug\net7.0\Curso Básico de Programación con C#.dll
+D:\Ruta backend con C# y .NET\Curso Básico de Programación con C#\bin\Debug\net7.0\Curso Básico de Programación con C#.pdb
+D:\Ruta backend con C# y .NET\Curso Básico de Programación con C#\obj\Debug\net7.0\Curso Básico de Programación con C#.csproj.AssemblyReference.cache
+D:\Ruta backend con C# y .NET\Curso Básico de Programación con C#\obj\Debug\net7.0\Curso Básico de Programación con C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ruta backend con C# y .NET\Curso Básico de Programación con C#\obj\Debug\net7.0\Curso Básico de Programación con C#.AssemblyInfoInputs.cache
+D:\Ruta backend con C# y .NET\Curso Básico de Programación con C#\obj\Debug\net7.0\Curso Básico de Programación con C#.AssemblyInfo.cs
+D:\Ruta backend con C# y .NET\Curso Básico de Programación con C#\obj\Debug\net7.0\Curso Básico de Programación con C#.csproj.CoreCompileInputs.cache
+D:\Ruta backend con C# y .NET\Curso Básico de Programación con C#\obj\Debug\net7.0\Curso Básico de Programación con C#.dll
+D:\Ruta backend con C# y .NET\Curso Básico de Programación con C#\obj\Debug\net7.0\refint\Curso Básico de Programación con C#.dll
+D:\Ruta backend con C# y .NET\Curso Básico de Programación con C#\obj\Debug\net7.0\Curso Básico de Programación con C#.pdb
+D:\Ruta backend con C# y .NET\Curso Básico de Programación con C#\obj\Debug\net7.0\Curso Básico de Programación con C#.genruntimeconfig.cache
+D:\Ruta backend con C# y .NET\Curso Básico de Programación con C#\obj\Debug\net7.0\ref\Curso Básico de Programación con C#.dll
