@@ -126,11 +126,13 @@ namespace primerCurso
                 case "martes":
                     System.Console.WriteLine("bienvenido martes");
                     break;
-                default:
+                default: //en caso que ningun caso se cumpla se va a default
                     System.Console.WriteLine("no se reconoce la instruccion");
                     break;
 
             }
+            //sentence while?
+
         }
     }
 }
