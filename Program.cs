@@ -88,9 +88,49 @@ namespace primerCurso
 
 
             string explicacion = "";
+            //concatenar informacion $"bla bla bla {variable} bla bla bla {variable}"
 
+            //Sentencias if
+            int totalJugador = 22;
+            int totalDealer = 15;
+            string message = "";
 
+            if (totalJugador > totalDealer && totalJugador < 22)
+            {
+                message = "venciste al dealer";
+            }
+            else if (totalJugador < totalDealer)
+            {
+                message = "perdiste";
+            }
+            else if (totalJugador > 21)
+            {
+                message = "perdiste te pasaste";
+            }
+            else
+            {
+                message = "condicion no valida";
+            }
 
+            System.Console.WriteLine(message);
+
+            // sentencia switch
+            string switchControl = "viernes";
+            switch (switchControl) //tomara el valor de la variable que ingrese
+            {
+                case "lunes": // comparara la variable con cada caso si son iguales entra
+                    System.Console.WriteLine("bienvenido lunes");
+                    System.Console.WriteLine("Escriba 21 para jugar");
+                    switchControl = Console.ReadLine();
+                    break;
+                case "martes":
+                    System.Console.WriteLine("bienvenido martes");
+                    break;
+                default:
+                    System.Console.WriteLine("no se reconoce la instruccion");
+                    break;
+
+            }
         }
     }
 }
