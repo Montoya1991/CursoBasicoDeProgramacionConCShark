@@ -68,8 +68,28 @@ namespace primerCurso
 
             bool resultadoAnd = valor4 && valor2; // solo sera verdadero si ambos son verdaderos
             System.Console.WriteLine(resultadoAnd);
-            bool resultadoOr = valor1 || valor2;
+            bool resultadoOr = valor1 || valor2;// si uno de los dos es verdadero dara verdadero
             System.Console.WriteLine(resultadoOr);
+            bool resultadoNegado = !valor1; //cambia el resultado a lo contrario del valor de la variable
+            System.Console.WriteLine(resultadoNegado);
+            bool resultadoXor = valor2 ^ valor4; // solo dara verdadero si son diferentes uno verdadero otro falso 
+            System.Console.WriteLine(resultadoXor);
+
+            //Operadores relacionales == igual que != diferente a que > mator que < menor que <= menor o igual
+
+            bool resultadoIgualQue = valor1 == valor3; // si los dos valores son iguales dara verdadero
+            System.Console.WriteLine(resultadoIgualQue);
+            int item1 = 10;
+            int item2 = 1;
+            int item3 = 2;
+
+            var resultadoDiferenteAQue = valor1 != valor2; // si el valor 1 es diferente al valor 2 sera verdadero
+            System.Console.WriteLine(resultadoDiferenteAQue);
+
+
+            string explicacion = "";
+
+
 
         }
     }
