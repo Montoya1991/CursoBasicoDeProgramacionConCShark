@@ -147,12 +147,14 @@ namespace primerCurso
             {
                 Console.WriteLine("¿Quieres continuar? (S/N)");
                 respuesta = Console.ReadLine();
+                //mientras la respuesta sea s no saldra del ciclo
             } while (respuesta.ToLower() == "s"); // mientras la respuesta sea verdadera se ejecutara el ciclo
 
             // metodo random
             System.Random random = new Random();
             int numeroAleatorio = random.Next(1, 12);
             System.Console.WriteLine(numeroAleatorio);
+
         }
     }
 }
