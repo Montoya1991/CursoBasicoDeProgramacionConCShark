@@ -149,6 +149,10 @@ namespace primerCurso
                 respuesta = Console.ReadLine();
             } while (respuesta.ToLower() == "s"); // mientras la respuesta sea verdadera se ejecutara el ciclo
 
+            // metodo random
+            System.Random random = new Random();
+            int numeroAleatorio = random.Next(1, 12);
+            System.Console.WriteLine(numeroAleatorio);
         }
     }
 }
